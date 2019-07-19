@@ -5,21 +5,21 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
-email: info@pirati.cz
+title: Piráti Kladno # To co je napsané na tabu ve kterém je stránka.
+email: mskladno@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Stránka místního sdružení Pirátů v Kladně. 
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, Kladno, KD, místní združení, Piráti
 
 administrator:
-  email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: michal.hazlinsky@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  email: example@pirati.cz
-  phone: +420 770 113 642
+  name: Česká pirástá strana - místní sdružení Kladno
+  shortName: Piráti Kladno
+  email: mskladno@pirati.cz
+  phone: +420 731 576 795
   address: |
     Na Moráni 3,
     120 00 Praha 2
@@ -35,16 +35,16 @@ organization:
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
-  - type: organizationRedmineLink
-  - type: organizationPhone
+#  - type: organizationRedmineLink
+#  - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
   - type: custom
     iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+    label: Facebook
+    body: <a href="https://www.facebook.com/PiratiKladno/">Facebook Piráti-Kladno</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -57,28 +57,28 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
+  profilePage: https://www.facebook.com/PiratiKladno/
+  profilePageName: Piráti-Kladno
   appId: 1526197851008996
 
-twitter:
-  loadSDK: true
-  profile: PiratskaStrana
+#twitter:
+#  loadSDK: true
+#  profile: PiratskaStrana
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: https://www.instagram.com/piratikladno/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
+#gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
 
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
+#flicker:
+#  profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/kladno.pirati.cz/
   branch: master
 
 #
