@@ -16,8 +16,8 @@ administrator:
   email: michal.hazlinsky@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Česká pirástá strana
-  shortName: Piráti
+  name: Piráti Kladno
+  shortName: Piráti Kladno
   email: mskladno@pirati.cz
   phone: +420 731 576 795
   address: |
@@ -41,25 +41,25 @@ contactSummaryItems:
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Facebook
-    body: <a href="https://www.facebook.com/PiratiKladno/">Facebook Piráti-Kladno</a>
+#  - type: custom
+#    iconClass: fa fa-envelope
+#    label: Facebook
+#    body: <a href="https://www.facebook.com/PiratiKladno/">Facebook Piráti-Kladno</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+  title: Kalendář Středočeského kraje
+  id: har1dmou53l37fbr4lci4prbhc@group.calendar.google.com
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=har1dmou53l37fbr4lci4prbhc%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/PiratiKladno/
   profilePageName: Piráti-Kladno
-  appId: 1526197851008996
+#  appId: 1526197851008996
 
 #twitter:
 #  loadSDK: true
@@ -105,6 +105,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-environment-variables
+  - jekyll-redirect-from
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -170,9 +171,14 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.2.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.6.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - _sass
+
+# piwik
+piwik:
+  siteId: 21
+  loadSDK: true

@@ -14,15 +14,18 @@ main:
     name: Aktuality
     match: aktuality
   - link: /lide/
-    name: O nás
+    name: Členové
     match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
-    submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
+  - link: /onas/
+    name: O nás
+    match: onas
+#  - link: /program/
+#    name: Program
+#    match: program
+#    submenu:
+#      - link: /komunalni-volby/mapa-zameru/
+#        name: Mapa záměrů
+#        match: mapa-zameru
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -31,15 +34,19 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
+      - link: /zajemci/
+        name: Naloď se
+#      - link: /mistni-sdruzeni/
+#        name: Místní sdružení
       - link: /kontakt/
         name: Dej nám vědět
   - class: small-12 medium-4
-    title: Makáme
+    title: Kladno
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
+      - link: /program/
+        name: Program
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4

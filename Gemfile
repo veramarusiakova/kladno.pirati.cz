@@ -13,7 +13,7 @@ gem "jekyll", "~> 3.7.3"
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "~>7.2.0"
+gem "jekyll-theme-pirati", "~>7.6.0"
 
 # Uncomment this line for local development.
 # gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
@@ -47,7 +47,8 @@ gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
 # jcz1 - javascript runtime deps
 gem 'execjs'
-gem 'therubyracer', :platforms => :ruby
+#gem 'therubyracer', :platforms => :ruby
+gem 'mini_racer'
 # jcz1 - calendar
 gem 'jekyll-environment-variables'
 # jcz1 - redirects
