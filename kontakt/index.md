@@ -15,11 +15,7 @@ contentSize: even
 
 Zajámá vás co dělají piráti na Kladně? Ozvěte se nám nebo přijďte k nám na schůzi, kterou pořádáme každou třetí středu v měsíci. O místě konání informujeme na naší facebookové stránce [PiratiKladno - události](https://www.facebook.com/pg/PiratiKladno/events/).
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Chcete přístup k pirátskym systémum? Regitrujte se na [nalodění](/zajemci/).
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s XY
-
-
-Strany našeho kraje jsou TODO.
-
+Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
+Pokud chcete darovat přimo naší MS poraďtě se s naším [předsedou](/lide/radek-cernohous/).
