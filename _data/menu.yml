@@ -29,6 +29,9 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
+  - link: /zajemci/
+    name: Přidej se!
+    match: zajemci
 
 bottom:
   - class: small-12 medium-4

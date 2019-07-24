@@ -30,11 +30,11 @@ V posledních volbách do Evropského pralamentu jsme v Kladně dosáhli na druh
 
 {% asset 'kladnoEU.jpg' alt='foto' %}
 
-Pořádáme pravidelná setkání s příznivci vždy každou třetí středu v měsíci vždy v některém z místních oblíbených podniků různě po Kladně.
-
+<!--
 # Členové komisí Rady a výborů Zastupitelstva města Kladna 
 
 * **Kontrolní výbor**
   * Michal Hažlinský
 * **Komise pro výchovu, vzdělávání a osvětu**
   * Jakub Václavovič
+-->

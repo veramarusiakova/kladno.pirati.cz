@@ -16,13 +16,13 @@ Pro příznivce Pirátů, kteří se chtějí více zapojit do našich aktivit, 
 
 Při registraci můžeš vyplnit osobní informace, zájmy, zaměstnání apod. Nemusíš prozradit vše, je to na zvážení, ale s reálným člověkem se vždy lépe jedná. My si na otevřenosti zakládáme, občanské jméno je znakem důvěry. Je nezbytně nutné vyplnit funkční e-mail, který pravidelně čteš.
 
-Jestli tě zajímají i lokální témata, připoj se v registraci ke Krajskému Sdružení (KS) a svému nejbližšímu Místnímu Sdružení (MS). Můžeš vést nekonečné diskuze a navrhovat tisíce změn na fóru, ale reálné věci se dějí ve tvém okolí. Mnohem lépe se ti bude o Pirátech přemýšlet, když se přijdeš podívat na nějakou schůzi místního či krajského sdružení.
+Jestli tě zajímají i lokální témata, připoj se v registraci ke Krajskému Sdružení (KS) a svému nejbližšímu Místnímu Sdružení (MS). Můžeš vést nekonečné diskuze a navrhovat tisíce změn na fóru, ale reálné věci se dějí ve tvém okolí. Mnohem lépe se ti bude o Pirátech přemýšlet, když se přijdeš podívat na nějakou naší schůzi na Kladně, nebo na schůzi krajského sdružení.
 
 ### Postup pro registrované příznivce
 
 1. Zaregistruj se do [Pirátského fóra](https://forum.pirati.cz) a zapoj se do dění.
 2. Zaregistruj se do [Nalodění](https://nalodeni.pirati.cz) a sám si vyber, co tě zajímá.
-3. Kontaktuj krajskou [koordinátorku](https://stredocesky.pirati.cz/kontakt/).
+3. Kontaktuj někoho z [MS Kladno](/kontakt/), nebo krajskou [koordinátorku](https://stredocesky.pirati.cz/kontakt/).
 4. Zúčastni se jakékoliv naší aktivity.
 
 
@@ -32,16 +32,16 @@ Když se zapojíš do aktivit místního sdružení a lépe se poznáme, může�
 
 Za člena tě přijme příslušné Místní sdružení. Pokud zatím neexistuje, může tě přijmount přímo krajské sdružení - pak budeš asi chvíli trosečníkem a třeba stavebním kamenem pro novou buňku u tebe ve městě nebo obci.
 
-Každý pirátský kraj má své koordinátory, což je něco jako tajemník sdružení. Jsou to lidi v pracovním vztahu se stranou a umí poradit v praktických a formálních věcech - napiš jim [napsat](/kontakt).
+Každý pirátský kraj má své koordinátory, což je něco jako tajemník sdružení. Jsou to lidi v pracovním vztahu se stranou a umí poradit v praktických a formálních věcech.
 
 ### Postup pro zájemce o členství
 
 Pokud se chceš stát členem, už jsi pravděpodobně registrovaným příznivcem, seš zaregistrovaný v [Pirátském fóru](https://forum.pirati.cz) i [Nalodění](https://nalodeni.pirati.cz) a asi už tě známe i osobně. Přesto tě prosíme:
 
-1. Založ si ve fóru vlákno se svým jménem v sekci [Zájemci o členství](https://forum.pirati.cz/viewforum.php?f=447) a napiš proč se chceš stát členem a co chceš u Pirátů dělat nebo už jsi dělal.
+1. Založ si ve Středočeské sekci fóra vlákno se svým jménem v sekci [Zájemci o členství](https://forum.pirati.cz/viewforum.php?f=447) a napiš proč se chceš stát členem a co chceš u Pirátů dělat nebo už jsi dělal.
 2. Počkej na všetečné dotazy na fóru. Buď trpělivý. Odpovídej upřímně a neboj se vyjádřit vlastní názor.
 3. Spoj se s nejbližším místním sdružením a zapoj se.
-4. Naplánuj si cestu na setkání se zájemci o členství, které se konají každý druhý měsíc (viz [kalendář](https://stredocesky.pirati.cz/kalendar), [fórum](https://forum.pirati.cz/viewtopic.php?t=13752&view=unread#unread) nebo [Facebook](https://www.facebook.com/pirati.stc)). Včas informuj krajskou koordinátorku o své účasti a o tom, že máš zájem o své grilování. Ničeho se neboj, jde jen o osobní setkání a zodpovězení doplňujících dotazů. Také se dozvíš něco o struktuře Pirátů, informačních systémech apod. Předsednictvo krajského sdružení pak bude hlasovat o doporučení pro tvé přijetí.
+4. Naplánuj si cestu na setkání se zájemci o členství, které se konají každý druhý měsíc (viz [kalendář](https://stredocesky.pirati.cz/kalendar), [fórum](https://forum.pirati.cz/viewtopic.php?t=13752&view=unread#unread) nebo [Facebook](https://www.facebook.com/pirati.stc)). Včas informuj krajskou koordinátorku a někoho z předsednictva MS Kladno o své účasti a o tom, že máš zájem o své grilování. Ničeho se neboj, jde jen o osobní setkání a zodpovězení doplňujících dotazů. Také se dozvíš něco o struktuře Pirátů, informačních systémech apod. Předsednictvo krajského sdružení pak bude hlasovat o doporučení pro tvé přijetí.
 5. Na stejném setkání můžeš odevzdat vyplněnou a podepsanou [přihlášku](https://wiki.pirati.cz/ao/sablony/start).
 6. Na schůzi svého místního sdružení požádej o přijetí. Předsednictvo místního sdružení se k přijetí vyjádří opět veřejným hlasováním.
 7. Po přijetí, prosím, [pošli členský příspěvek](https://www.pirati.cz/fo/navody/prispevek) na náš transparentní účet. Výše příspěvku záleží na tvém vlastním zvážení a finančních možnostech, minimum je 200 Kč, a platí se pravidelně každý rok (můžeš nastavit trvalý příkaz).
