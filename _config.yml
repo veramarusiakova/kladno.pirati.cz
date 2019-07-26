@@ -11,6 +11,8 @@ description: >-
   Stránka místního sdružení Pirátů v Kladně. 
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, Kladno, KD, místní združení, Piráti
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kladno.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
   email: michal.hazlinsky@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
