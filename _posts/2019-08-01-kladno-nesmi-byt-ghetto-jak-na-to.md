@@ -3,7 +3,7 @@ category: blog
 layout: post
 date: 2019-08-01
 #published: false
-tags: sociální_politika Kladno
+tags: sociální_politika Kladno ubytovny bezdoplatkové_zóny
 title: 'Kladno nesmí být ghetto – jak na to?'
 description: 'sociální politika, Kladno'
 author: Jakub Václavovič
