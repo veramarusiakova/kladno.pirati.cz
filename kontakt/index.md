@@ -13,9 +13,9 @@ contentSize: even
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajámá vás co dělají piráti na Kladně? Ozvěte se nám nebo přijďte k nám na schůzi, kterou pořádáme každou třetí středu v měsíci. O místě konání informujeme na naší facebookové stránce [PiratiKladno - události](https://www.facebook.com/pg/PiratiKladno/events/).
+Zajímá vás, co dělají Piráti na Kladně? Ozvěte se nám nebo přijďte na naši schůzi, kterou pořádáme každou třetí středu v měsíci. O místě konání informujeme na naší facebookové stránce [Piráti Kladno - události](https://www.facebook.com/pg/PiratiKladno/events/).
 
-Chcete přístup k pirátskym systémum? Regitrujte se na [nalodění](/zajemci/).
+Chcete přístup k pirátským systémům? Regitrujte se v [nalodění](/zajemci/).
 
-Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poraďtě se s naším [předsedou](/lide/radek-cernohous/).
+Finanční dary můžete posílat pomocí formuláře [dary](https://dary.pirati.cz).
+Pokud chcete darovat přimo našemu MS, poraďtě se s naším [předsedou](/lide/radek-cernohous/).
