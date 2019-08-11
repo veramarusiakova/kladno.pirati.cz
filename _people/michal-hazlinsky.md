@@ -23,9 +23,9 @@ Vznik České pirátské strany mě zastihl v druhé polovině studí a jejím p
 
 **Mé dosavadní aktivity**
 
-Od podzimu 2017 se angažuji v občanské iniciativě, která se brání proti nevhodným změnám v územním plánu města Kladna týkajících se lokality tzv. “Růžového pole”. Ty prosadilo hodně na sílu tehdejší vedení města. (https://www.facebook.com/ruzovepolereferendum/) 
+Od podzimu 2017 se angažuji v občanské iniciativě, která se brání proti nevhodným změnám v územním plánu města Kladna týkajících se lokality tzv. [“Růžového pole”](https://www.facebook.com/ruzovepolereferendum/). Ty prosadilo hodně na sílu tehdejší vedení města. 
 
-V návaznosti na předchozí jsem začal na přelomu let 2017/2018 aktivně pomáhat místnímu uskupení “Kladeňáci” s přípravou na komunální volby 2018 (uskupení tvoří STAN,TOP09,KDU ČSL). Původně sdružení jednalo i s Piráty, avšak nedávno před tím vzniklé MS se rozhodlo těchto voleb neúčastnit a soustředit se na vlastní růst. S MS Kladno jsem v té době byl již v aktivním kontaktu jako reg. příznivec, a přestože jsem nadále pomáhal Kladeňákům v kampani, vstoupil jsem v létě 2018 do Pirátské strany. 
+V návaznosti na předchozí jsem začal na přelomu let 2017/2018 aktivně pomáhat místnímu uskupení “Kladeňáci” s přípravou na komunální volby 2018 (uskupení tvoří STAN,TOP09,KDU-ČSL). Původně sdružení jednalo i s Piráty, avšak nedávno před tím vzniklé MS se rozhodlo těchto voleb neúčastnit a soustředit se na vlastní růst. S MS Kladno jsem v té době byl již v aktivním kontaktu jako registrovaný příznivec, a přestože jsem nadále pomáhal Kladeňákům v kampani, vstoupil jsem v létě 2018 do Pirátské strany.
 
 Od listopadu 2018 jsem pak členem Kontrolního výboru zastupitelstva města Kladna, kam jsem byl nominován sdružením Kladeňáci.  
 
@@ -33,12 +33,9 @@ Od listopadu 2018 jsem pak členem Kontrolního výboru zastupitelstva města Kl
 
 2009 - 2011 Magisterské - Elektrotechnika a Informatika (Počítačové sítě a Internet), ČVUT v Praze, Fakulta elektrotechnická.\\
 2005 - 2009 Bakalářské - Elektrotechnika a Informatika, ČVUT v Praze, Fakulta elektrotechnická.\\
-2001 - 2005 Středoškolské - SPŠ a VOŠ Kladno, Elektronické počítačové systémy
+2001 - 2005 Středoškolské - SPŠ a VOŠ Kladno, Elektronické počítačové systémy.
 
 **Profese**
 
-Od roku 2011 se zabývám výzkumem a vývojem v oblasti pokročilých služeb optických sítí, zejména pak virtuálních okruhů na druhé síťové vrstvě. Významnou součástí mé práce je rozvoj síťových prostředí pro experimentování a
-ověřování nových řešení a vývoj nástrojů pro automatizované zajišťování dynamických okruhů v páteřních sítích,
-včetně více-doménových řešení.
-Účastním se řešení mezinárodních projektů, v posledních pěti letech na pozici vedoucího pracovní skupiny v
-projektu Geant, který provozuje panevropskou síť pro vědu a výzkum.
+Od roku 2011 se zabývám výzkumem a vývojem v oblasti pokročilých služeb optických sítí, zejména pak virtuálních okruhů na druhé síťové vrstvě. Významnou součástí mé práce je rozvoj síťových prostředí pro experimentování a ověřování nových řešení a vývoj nástrojů pro automatizované zajišťování dynamických okruhů v páteřních sítích, včetně více-doménových řešení.
+Účastním se řešení mezinárodních projektů, v posledních pěti letech na pozici vedoucího pracovní skupiny v projektu Geant, který provozuje panevropskou síť pro vědu a výzkum.
