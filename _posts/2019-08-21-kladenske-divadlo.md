@@ -9,7 +9,7 @@ description: 'Řízení divadla v Kladně'
 author: Lucie Chocholová
 #authorId: jakub.vaclavovic
 image: posts/2019/divadlo.jpg
----**
+---
 
 O tom, jaký má kultura vliv na rozvoj měst z hlediska sociálního a ekonomického, bylo napsáno mnoho. Prokázáno různými průzkumy v číslech pak ještě více. Zdalipak jsou si reprezentanti města vědomi toho, jak moc je důležitá kontinuita v činnosti kulturních organizací pro dlouhodobou koncepční činnost? Vždyť například investiční projekty se plánují s mnohdy až tříletým předstihem. Podle kroků, kterých jsme svědky v Kladně, to vypadá, že tato skutečnost představitelům města bohužel zřejmě uniká. 
 
