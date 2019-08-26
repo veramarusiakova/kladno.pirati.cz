@@ -2,7 +2,7 @@
 category: blog
 layout: post
 date: 2019-08-21
-published: false
+#published: false
 tags: kultura Kladno divadlo
 title: 'Kladenskému divadlu škodí nejvíce netransparentní personální rošády a nekoncepční přístup ze strany města'
 description: 'Řízení divadla v Kladně'
