@@ -8,7 +8,7 @@ category:
 - clenms
 description: Člen pirátů v MS Kladno # zobrazuje se v lide
 img: people/jan_lukasek.jpg # zakomentuj radek dokud není fotka
-ordClenms: 1
+ordClenms: 2
 mail:
 - jan.lukasek@pirati.cz
 profiles:

@@ -8,7 +8,7 @@ category:
 - clenms
 description: Člen pirátů v MS Kladno # zobrazuje se v lide
 img: people/jakub-pirat.jpg # zakomentuj radek dokud není fotka
-ordClenms: 2
+ordClenms: 3
 mail:
 - jan.jurik@pirati.cz
 profiles:
