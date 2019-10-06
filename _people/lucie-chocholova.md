@@ -5,7 +5,7 @@ titles:
   before:
   after:
 category:
-- pms
+- clenms
 description: Člen pirátů v MS Kladno # zobrazuje se v lide
 img: people/lucie.jpg # zakomentuj radek dokud není fotka
 ordClenms: 1
