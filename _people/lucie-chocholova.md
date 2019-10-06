@@ -1,6 +1,6 @@
 ---
-uid: jakub.vaclavovic
-name: Jakub Václavovič  	# běžně používáné jméno
+uid: lucie.chocholova
+name: Lucie Chocholová  	# běžně používáné jméno
 titles:
   before:
   after:
