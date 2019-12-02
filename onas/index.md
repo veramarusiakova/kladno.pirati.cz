@@ -8,11 +8,11 @@ facebook: PiratiKladno
 forum: https://forum.pirati.cz/viewforum.php?f=693
 predsednictvo:
  - funkce: předseda
-   jmeno: Radek Černohous
- - funkce: 1. místopředseda
    jmeno: Michal Hažlinský
- - funkce: 2. místopředseda
+ - funkce: 1. místopředseda
    jmeno: Jakub Václavovič
+ - funkce: 2. místopředseda
+   jmeno: ...
 mandat-do: 01.02.2021
 volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
 ---

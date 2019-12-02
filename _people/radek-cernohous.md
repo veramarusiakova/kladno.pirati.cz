@@ -5,9 +5,9 @@ titles:
   before:
   after:
 category:
-  - pms
-ordpms: 1
-description: Předseda MS Kladno # zobrazuje se v lide
+  - clenms
+ordClenms: 5
+description: Člen pirátů v MS Kladno # zobrazuje se v lide
 img: people/radek-cernohous.jpg # zakomentuj radek dokud není fotka
 mail:
   - radek.cernohous@pirati.cz

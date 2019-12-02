@@ -7,9 +7,9 @@ titles:
 category:
 - kontaktni_osoba
 - pms
-description: Místopředseda MS Kladno # zobrazuje se v lide
+description: Předseda MS Kladno # zobrazuje se v lide
 img: people/michal-h.jpg # zakomentuj radek dokud není fotka
-ordPms: 2
+ordPms: 1
 mail:
 - michal.hazlinsky@pirati.cz
 profiles:
