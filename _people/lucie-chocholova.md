@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - pms
-description: Člen pirátů v MS Kladno # zobrazuje se v lide
+description: Místopředseda MS Kladno # zobrazuje se v lide
 img: people/lucie.jpg # zakomentuj radek dokud není fotka
 ordPms: 3
 mail:
