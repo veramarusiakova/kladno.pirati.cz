@@ -12,9 +12,9 @@ predsednictvo:
  - funkce: 1. místopředseda
    jmeno: Jakub Václavovič
  - funkce: 2. místopředseda
-   jmeno: ...
+   jmeno: Lucie Cirkva Chocholová
 mandat-do: 01.02.2021
-volba: https://forum.pirati.cz/viewtopic.php?f=697&t=45324
+volba: https://forum.pirati.cz/viewtopic.php?f=697&t=50024
 ---
 
 ## Akce

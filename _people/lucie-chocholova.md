@@ -5,10 +5,10 @@ titles:
   before:
   after:
 category:
-- clenms
+- pms
 description: Člen pirátů v MS Kladno # zobrazuje se v lide
 img: people/lucie.jpg # zakomentuj radek dokud není fotka
-ordClenms: 1
+ordPms: 3
 mail:
 - lucie.chocholova@pirati.cz
 profiles:
