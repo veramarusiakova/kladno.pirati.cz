@@ -18,4 +18,4 @@ Zajímá vás, co dělají Piráti na Kladně? Ozvěte se nám nebo přijďte na
 Chcete přístup k pirátským systémům? Regitrujte se v [nalodění](/zajemci/).
 
 Finanční dary můžete posílat pomocí formuláře [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu MS, poraďtě se s naším [předsedou](/lide/radek-cernohous/).
+Pokud chcete darovat přimo našemu MS, poraďtě se s naším [předsedou](/lide/michal-hazlinsky/).
