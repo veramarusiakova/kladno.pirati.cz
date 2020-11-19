@@ -25,9 +25,9 @@ Vznik České pirátské strany mě zastihl v druhé polovině studí a jejím p
 
 Od podzimu 2017 se angažuji v občanské iniciativě, která se brání proti nevhodným změnám v územním plánu města Kladna týkajících se lokality tzv. [“Růžového pole”](https://www.facebook.com/ruzovepolereferendum/). Ty prosadilo hodně na sílu tehdejší vedení města. 
 
-V návaznosti na předchozí jsem začal na přelomu let 2017/2018 aktivně pomáhat místnímu uskupení “Kladeňáci” s přípravou na komunální volby 2018 (uskupení tvoří STAN,TOP09,KDU-ČSL). Původně sdružení jednalo i s Piráty, avšak nedávno před tím vzniklé MS se rozhodlo těchto voleb neúčastnit a soustředit se na vlastní růst. S MS Kladno jsem v té době byl již v aktivním kontaktu jako registrovaný příznivec, a přestože jsem nadále pomáhal Kladeňákům v kampani, vstoupil jsem v létě 2018 do Pirátské strany.
+V návaznosti na předchozí jsem na přelomu let 2017/2018 začal být aktivní v místním sdružení Pirátů na Kladně. Řádným členem jsem se stal v létě 2018.
 
-Od listopadu 2018 jsem pak členem Kontrolního výboru zastupitelstva města Kladna, kam jsem byl nominován sdružením Kladeňáci.  
+Od listopadu 2018 jsem pak členem Kontrolního výboru zastupitelstva města Kladna, kam jsem byl nominován sdružením Kladeňáci v návaznosti na aktivity kolem Růžového pole.  
 
 **Vzdělání**
 
