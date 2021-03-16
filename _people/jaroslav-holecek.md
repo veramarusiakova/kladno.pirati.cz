@@ -6,10 +6,10 @@ titles:
   before:
   after:
 category:
-- pms
+- clenms
 description: Člen MS Kladno # zobrazuje se v lide
 img: people/jarda.jpeg # zakomentuj radek dokud není fotka
-ordPms: 3
+ordClenms: 5
 mail:
 - jaroslav.holecek@pirati.cz
 profiles:
