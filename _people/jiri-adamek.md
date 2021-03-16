@@ -5,10 +5,10 @@ titles:
   before:
   after:
 category:
-- clenms
+- pms
 description: Člen pirátů v MS Kladno # zobrazuje se v lide
 img: people/jakub-pirat.jpg # zakomentuj radek dokud není fotka
-ordClenms: 4
+ordPms: 3
 mail:
 - jiri.adamek@pirati.cz
 profiles:

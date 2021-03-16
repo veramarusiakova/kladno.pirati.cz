@@ -5,10 +5,10 @@ titles:
   before:
   after:
 category:
-- pms
+- clenms
 description: Místopředseda MS Kladno # zobrazuje se v lide
 img: people/jakub_vaclavovic.jpg # zakomentuj radek dokud není fotka
-ordPms: 2
+ordClenms: 4
 mail:
 - jakub.vaclavovic@pirati.cz
 profiles:

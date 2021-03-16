@@ -1,6 +1,7 @@
 ---
 uid: michal.hazlinsky
 name: Michal Hažlinský  	# běžně používáné jméno
+redirect_to: https://lide.pirati.cz/personProfile/174/
 titles:
   before:
   after:

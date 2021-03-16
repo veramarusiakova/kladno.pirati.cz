@@ -8,7 +8,7 @@ category:
 - pms
 description: Místopředseda MS Kladno # zobrazuje se v lide
 img: people/lucie.jpg # zakomentuj radek dokud není fotka
-ordPms: 3
+ordPms: 2
 mail:
 - lucie.cirkva.chocholova@pirati.cz
 profiles:

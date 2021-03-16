@@ -9,12 +9,12 @@ forum: https://forum.pirati.cz/viewforum.php?f=693
 predsednictvo:
  - funkce: předseda
    jmeno: Michal Hažlinský
- - funkce: 1. místopředseda
-   jmeno: Jakub Václavovič
- - funkce: 2. místopředseda
+ - funkce: 1. místopředsedkyně
    jmeno: Lucie Cirkva Chocholová
-mandat-do: 01.02.2021
-volba: https://forum.pirati.cz/viewtopic.php?f=697&t=50024
+ - funkce: 2. místopředseda
+   jmeno: Jiří Adámek
+mandat-do: 01.02.2023
+volba: https://forum.pirati.cz/viewtopic.php?f=697&t=55641
 ---
 
 ## Akce
