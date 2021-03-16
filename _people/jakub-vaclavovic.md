@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - clenms
-description: Místopředseda MS Kladno # zobrazuje se v lide
+description: Člen pirátů v MS Kladno # zobrazuje se v lide
 img: people/jakub_vaclavovic.jpg # zakomentuj radek dokud není fotka
 ordClenms: 4
 mail:

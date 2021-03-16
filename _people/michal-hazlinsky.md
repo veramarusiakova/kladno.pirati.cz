@@ -39,4 +39,4 @@ Od listopadu 2018 jsem pak členem Kontrolního výboru zastupitelstva města Kl
 **Profese**
 
 Od roku 2011 se zabývám výzkumem a vývojem v oblasti pokročilých služeb optických sítí, zejména pak virtuálních okruhů na druhé síťové vrstvě. Významnou součástí mé práce je rozvoj síťových prostředí pro experimentování a ověřování nových řešení a vývoj nástrojů pro automatizované zajišťování dynamických okruhů v páteřních sítích, včetně více-doménových řešení.
-Účastním se řešení mezinárodních projektů, v posledních pěti letech na pozici vedoucího pracovní skupiny v projektu Geant, který provozuje panevropskou síť pro vědu a výzkum.
+Účastním se řešení mezinárodních projektů, v posledních letech v projektu Geant, který provozuje panevropskou síť pro vědu a výzkum.
